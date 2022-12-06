@@ -29,7 +29,7 @@
 ## images 说明
 
 | 文件夹 | 说明 | 示例 |
-| - | :-: | - |
+| - | - | - |
 | gif | 宝可梦动图 | ![img](https://raw.githubusercontent.com/NightCatSama/pokedex/main/images/gif/1.gif) |
 | normal | 宝可梦正常图片 | ![img](https://raw.githubusercontent.com/NightCatSama/pokedex/main/images/normal/1.png) |
 | pixel | 宝可梦像素图 | ![img](https://raw.githubusercontent.com/NightCatSama/pokedex/main/images/pixel/1.png) |
